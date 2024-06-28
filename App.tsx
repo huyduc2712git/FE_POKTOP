@@ -1,8 +1,8 @@
-import HomeScreen from '@screens/Home';
+import ShortVideoScreen from '@screens/ShortVideo';
 import React from 'react';
 
 function App(): React.JSX.Element {
-  return <HomeScreen />;
+  return <ShortVideoScreen />;
 }
 
 export default App;

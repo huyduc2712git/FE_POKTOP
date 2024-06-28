@@ -9,6 +9,7 @@
     "forceConsistentCasingInFileNames": true,
     "baseUrl": "./",
     "paths": {
+      "*": ["src"],
       "@screens/*": ["src/screens/*"],
       "@hooks/*": ["src/hooks/*"]
     }
